@@ -1,4 +1,8 @@
 ---
+genres:
+  - survival
+  - strategy
+  - arcade
 directors_cut: https://nyx-felis.aftongauntlett.com/
 post: https://www.aftongauntlett.com/blog/js13k-2025-post-mortem
 # See github.com/js13kGames/hello-world for supported frontmatter
